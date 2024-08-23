@@ -1,5 +1,5 @@
-##WiseTime: Sistema de Gerenciamento de Ponto
-###Resumo
+WiseTime: Sistema de Gerenciamento de Ponto
+Resumo
 O documento apresenta o "WiseTime", um sistema de gerenciamento de ponto desenvolvido para atender às demandas tanto dos administradores quanto dos funcionários. Com uma abordagem inovadora, o WiseTime oferece uma visão abrangente do registro de horas, permitindo aos administradores acessar todo o histórico de horas dos funcionários, identificar horários de início e término de cada dia de trabalho e visualizar um relatório detalhado de horas positivas e negativas. Além disso, o sistema facilita a gestão administrativa ao permitir o processamento de solicitações de atestados ou adição manual de pontos de forma transparente e rastreável. Para os funcionários, o WiseTime oferece uma interface intuitiva e simplificada para o registro de entrada e saída. Em resumo, o WiseTime promove transparência, precisão e eficiência no gerenciamento de ponto para ambas as partes envolvidas.
 
 1. Introdução
