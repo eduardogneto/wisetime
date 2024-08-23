@@ -29,14 +29,21 @@ Com o WiseTime, você obtém uma solução completa para a gestão de ponto que 
 # Tecnologias utilizadas
 
 Front-end: React
+
 Back-end: Java
+
 Code Review: SonarCloud
+
 Cloud: AWS
+
 Banco de dados: PostgreSQL
 
 # Links importantes
 
 Backend - [Link do repositório do back-end](https://github.com/Uude1/wisetime-back)
+
 Frontend - [Link do repositório do front-end](https://github.com/Uude1/wisetime-front)
+
 Jira - [Link do Jira](https://wisetime.atlassian.net/jira/servicedesk/projects/WT/boards/2)
+
 Figma - [Link do Figma](https://www.figma.com/design/IJTRTNVmrvRrxA3hNL2j03/Untitled?node-id=63-5&t=di3fEU54sG6rCHa3-1)
