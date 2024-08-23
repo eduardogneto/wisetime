@@ -1,4 +1,4 @@
-WiseTime: Sistema de Gerenciamento de Ponto
+![Screenshot_1](https://github.com/user-attachments/assets/be545b8b-cadc-47ef-9732-0810eb4dd139)WiseTime: Sistema de Gerenciamento de Ponto
 
 Resumo
   O documento apresenta o "WiseTime", um sistema de gerenciamento de ponto desenvolvido para atender às demandas tanto dos administradores     quanto dos funcionários. Com uma abordagem inovadora, o WiseTime oferece uma visão abrangente do registro de horas, permitindo aos administradores acessar todo o histórico de horas dos funcionários, identificar horários de início e término de cada dia de trabalho e visualizar um relatório detalhado de horas positivas e negativas. Além disso, o sistema facilita a gestão administrativa ao permitir o processamento de solicitações de atestados ou adição manual de pontos de forma transparente e rastreável. Para os funcionários, o WiseTime oferece uma interface intuitiva e simplificada para o registro de entrada e saída. Em resumo, o WiseTime promove transparência, precisão e eficiência no gerenciamento de ponto para ambas as partes envolvidas.
@@ -78,7 +78,16 @@ TDD (Test-Driven Development): O Desenvolvimento Orientado a Testes (TDD) é seg
 Metodologia Ágil com Jira: Utilizamos o Jira para gerenciamento de projetos, adotando metodologias ágeis como Kanban e Scrum para visualização do fluxo de trabalho, gestão contínua das tarefas, e definição clara de metas a curto prazo.
 
 3.2.3 Modelo C4
-(Adicionar imagem aqui)
+
+Contexto:
+![Screenshot_1](https://github.com/user-attachments/assets/96c537a6-5bdb-4d6a-bb85-972dfe30627c)
+
+Contêineres:
+![Screenshot_2](https://github.com/user-attachments/assets/bb40596d-51bb-464b-a6bb-cb197af3ffdb)
+
+Componentes:
+![Screenshot_3](https://github.com/user-attachments/assets/93c23960-654b-4f6b-b34c-94f72abbfc50)
+
 
 3.3. Stack Tecnológica
 
@@ -100,5 +109,5 @@ Spring Boot (Backend): Adotado para facilitar a configuração e o desenvolvimen
 PostgreSQL: Utilizado devido à sua robustez, escalabilidade e suporte a recursos avançados como consultas complexas e transações ACID.
 
 4. Conclusão
-5. 
+
 O WiseTime é um sistema inovador que atende às necessidades de gerenciamento de ponto de empresas modernas, promovendo a eficiência, precisão e transparência no registro de horas trabalhadas. Com uma abordagem focada tanto nos administradores quanto nos funcionários, o sistema oferece funcionalidades robustas e uma interface intuitiva para facilitar a gestão do tempo de trabalho.
