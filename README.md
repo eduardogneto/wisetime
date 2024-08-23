@@ -2,7 +2,7 @@
 
 Bem-vindo ao WiseTime, a solução definitiva para gerenciamento de ponto.
 
-O WiseTime foi desenvolvido para atender tanto administradores quanto funcionários, oferecendo uma abordagem inovadora e eficiente. Com o WiseTime, você tem acesso a uma visão abrangente do registro de horas, permitindo que administradores acompanhem todo o histórico de horas, identifiquem horários de início e término de cada jornada de trabalho e visualizem relatórios detalhados de horas positivas e negativas.
+O WiseTime foi desenvolvido para atender tanto administradores quanto funcionários, oferecendo uma abordagem inovadora e eficiente. Você tem acesso a uma visão abrangente do registro de horas, permitindo que administradores acompanhem todo o histórico de horas, identifiquem horários de início e término de cada jornada de trabalho e visualizem relatórios detalhados de horas positivas e negativas.
 
 Além disso, nosso sistema facilita a gestão administrativa com processamento transparente e rastreável de solicitações de atestados e adição manual de pontos. Para os funcionários, o WiseTime oferece uma interface intuitiva e simplificada para o registro de entrada e saída.
 
