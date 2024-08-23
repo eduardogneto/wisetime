@@ -32,7 +32,7 @@ Front-end: React
 
 Back-end: Java
 
-Code Review: SonarCloud
+Code Review: SonarQube
 
 Cloud: AWS
 
