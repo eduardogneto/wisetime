@@ -20,6 +20,10 @@ Garantir Confiabilidade e Segurança: Oferecendo uma solução confiável e segu
 
 Com o WiseTime, você obtém uma solução completa para a gestão de ponto que promove eficiência, precisão e um ambiente de trabalho mais produtivo. Escolha o WiseTime e transforme a administração do seu tempo!
 
+# Autor
+
+[@eduardogneto](https://github.com/eduardogneto)
+
 # Front-End
 
 ## Tecnologias utilizadas
@@ -82,7 +86,9 @@ Ferramentas de desenvolvimento: Eclipse IDE, Visual Studio Code
 
 [WiseTime](https://wisetime.site) - URL da Aplicação
 
-## Swagger
+## Documentação
+
+[Wiki](https://github.com/eduardogneto/wisetime/wiki) - Wiki do Projeto.
 
 [Swagger](https://wisetime.site/api/swagger-ui/index.html#/) - Documentação da API.
 
