@@ -1,12 +1,6 @@
 # WiseTime: Sistema de Gerenciamento de Ponto
 
-Bem-vindo ao WiseTime, a solução definitiva para gerenciamento de ponto.
-
-O WiseTime foi desenvolvido para atender tanto administradores quanto funcionários, oferecendo uma abordagem inovadora e eficiente. Você tem acesso a uma visão abrangente do registro de horas, permitindo que administradores acompanhem todo o histórico de horas, identifiquem horários de início e término de cada jornada de trabalho e visualizem relatórios detalhados de horas positivas e negativas.
-
-Além disso, nosso sistema facilita a gestão administrativa com processamento transparente e rastreável de solicitações de atestados e adição manual de pontos. Para os funcionários, o WiseTime oferece uma interface intuitiva e simplificada para o registro de entrada e saída.
-
-Com o WiseTime, promovemos transparência, precisão e eficiência no gerenciamento de ponto, garantindo uma experiência otimizada para todas as partes envolvidas.
+O Wisetime oferece uma ferramenta intuitiva e eficiente que automatiza o controle de tempo, proporcionando autonomia para coordenadores e administradores. A plataforma permite que os coordenadores aprovem ou reprovem solicitações de forma ágil, além de incluir funcionalidades de auditoria que garantem maior clareza e rastreabilidade das ações realizadas pelos usuários. Isso assegura transparência nas operações e facilita o monitoramento das atividades dentro da empresa. Além disso, o Wisetime facilita o acesso a relatórios de horas dos funcionários e outras funcionalidades. Ao implementar o Wisetime, as empresas conseguem reduzir erros administrativos, aumentar a produtividade e garantir uma gestão de tempo mais transparente e eficaz, adaptando-se perfeitamente às dinâmicas do trabalho remoto e flexível.​
 
 # Por que o WiseTime?
 
@@ -26,23 +20,87 @@ Garantir Confiabilidade e Segurança: Oferecendo uma solução confiável e segu
 
 Com o WiseTime, você obtém uma solução completa para a gestão de ponto que promove eficiência, precisão e um ambiente de trabalho mais produtivo. Escolha o WiseTime e transforme a administração do seu tempo!
 
-# Tecnologias utilizadas
+# Front-End
 
-Front-end: React
+## Tecnologias utilizadas
 
-Back-end: Java
+React: Biblioteca principal para construção da interface de usuário.
 
-Code Review: SonarQube
+Jest: Framework de testes utilizado para realizar testes unitários.
 
-Cloud: AWS
+ESLint: Ferramenta de linting para garantir a qualidade e padronização do código.
 
-Banco de dados: PostgreSQL
+Ant Design: Framework de UI utilizado para componentes e estilos.
+
+React Router Dom: Para gerenciamento de rotas da aplicação.
+
+Day.js: Formatação de datas.
+
+Axios: Requisições HTTP.
+
+# Back-End
+
+## Tecnologias utilizadas
+
+Spring Boot: Framework para construir aplicações Java de forma rápida e eficiente.
+
+Java: Linguagem de programação orientada a objetos.
+
+JUnit: Framework para realizar testes unitários em Java.
+
+Mockito: Biblioteca para simulação de objetos em testes unitários.
+
+Swagger: Ferramenta para documentação de APIs RESTful.
+
+# Cloud
+
+Amazon Web Services
+
+# Virtualização
+
+Docker
+
+# Banco de dados
+
+PostgreSQL
+
+# Ferramentas de desenvolvimento
+
+Code Review: SonarCloud
+
+Monitoramento: Grafana e Prometheus
+
+Continuous Deployment (CD): Github Actions
+
+Continuous Integration (CI): SonarCloud Quality Gate
+
+Ferramentas de desenvolvimento: Eclipse IDE, Visual Studio Code
 
 # Links importantes
 
-Backend - [Link do repositório do back-end](https://github.com/Uude1/wisetime-back)
+## Aplicação
 
-Frontend - [Link do repositório do front-end](https://github.com/Uude1/wisetime-front)
+[WiseTime](https://wisetime.site) - URL da Aplicação
+
+## Swagger
+
+[Swagger](https://wisetime.site/api/swagger-ui/index.html#/)
+
+## Repositórios
+
+[Repositório do Back-End](https://github.com/Uude1/wisetime-back) - Backend 
+
+[Repositório do Front-End](https://github.com/Uude1/wisetime-front) - Frontend 
+
+## Monitoramento
+
+[Grafana](http://3.20.29.20:3000/) - Painel de visualização de dados e métricas. (usuário: admin, senha: wisetime)
+
+[SonarCloud Back-End](https://sonarcloud.io/project/overview?id=eduardogneto_wisetime-back) - SonarCloud do Back-end.
+
+[SonarCloud Front-End](https://sonarcloud.io/project/overview?id=eduardogneto_wisetime-front) - SonarCloud do Front-end.
+
+## Outras ferramentas utilizadas
 
 Jira - [Link do Jira](https://wisetime.atlassian.net/jira/servicedesk/projects/WT/boards/2)
 
