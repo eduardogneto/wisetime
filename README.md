@@ -84,7 +84,7 @@ Ferramentas de desenvolvimento: Eclipse IDE, Visual Studio Code
 
 ## Swagger
 
-[Swagger](https://wisetime.site/api/swagger-ui/index.html#/)
+[Swagger](https://wisetime.site/api/swagger-ui/index.html#/) - Documentação da API.
 
 ## Repositórios
 
